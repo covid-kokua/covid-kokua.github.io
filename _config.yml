@@ -2,7 +2,7 @@ title: COVID Kokua
 description: Varying information about COVID related resources.
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-merlot
+theme: jekyll-theme-cayman
 github:
   is_project_page: true
   repository_url:  https://github.com/covid-kokua/covid-kokua.github.io

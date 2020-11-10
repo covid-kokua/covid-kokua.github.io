@@ -11,28 +11,16 @@
 
 ## Overview
 
-BowFolios is an example web application that provides pages to view and (in some cases) modify profiles, projects, and interests. It illustrates various technologies useful to ICS software engineering students, including:
+COVID Kōkua is a web application that uses crowdsourcing to collect, organize and present helpful resources to combat the effects of COVID-19, including:
 
-* [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
-* [React](https://reactjs.org/) for component-based UI implementation and routing.
-* [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
-* [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
-
-It also provides code that implements a variety of useful design concepts, including:
-
-* Three primary collections (Profiles, Projects, Interests) as well as three "join" Collections (ProfilesInterests, ProfilesProjects, and ProjectsInterests) that implement many-to-many relationships between them.
-* Top-level index pages (Profiles, Interests, and Projects) that show how to manipulate these six collections in various ways.
-* Initialization code to define default Profiles, Interests, and Projects and relations between them.
-* A simple Filter page to illustrate how to perform simple queries on the database and display the results.
-* Use of Meteor Methods to illustrate how to simplify implementation of multiple collection updates.
-* Use of indexes to enforce uniqueness of certain fields in the collections, enabling them to serve as primary keys.
-* Authentication using the built-in Meteor accounts package along with Sign Up and Sign In pages.
-* Authorization examples: certain pages are public (Profiles, Projects, Interests), while other pages require login (AddProject, Filter).
-* Use of Meteor Assets to initialize the database (helpful when initialization exceeds settings file size limits).
+- Financial Aid
+- Unemployment Programs/Assistance
+- Links to official hotlines or contacts
+- A help-ticket system to answer additional questions users may have
 
 ## User Guide
 
-This section provides a walkthrough of the Bowfolios user interface and its capabilities.
+This section provides a walkthrough of the COVID Kōkua user interface and its capabilities.
 
 ### Landing Page
 
@@ -40,11 +28,11 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ![](images/landing-page.png)
 
-### Index pages (Projects, Profiles, Interests)
+### Index pages (Financial Aid, Unemployment Help, COVID News)
 
-Bowfolios provides three public pages that present the contents of the database organized in various ways.
+COVID Kōkua provides three public pages that present the contents of the database organized in various ways.
 
-The Profiles page shows all the current defined profiles and their associated Projects and Interests:
+UNCHANGED The Profiles page shows all the current defined profiles and their associated Projects and Interests:
 
 ![](images/profiles-page.png)
 

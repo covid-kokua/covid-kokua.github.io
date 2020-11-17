@@ -31,6 +31,10 @@ The following team members contributed to this project as developers:
 
 This section provides a walkthrough of the COVID Kōkua user interface and its capabilities.
 
+The COVID Kōkua homepage looks like this:
+
+<img src="../images/landing.png">
+
 ## Development History
 
 The development process for COVID Kōkua conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:

@@ -19,10 +19,10 @@ A wide array of frameworks and libraries were used in development of COVID Kōku
 
 The following team members contributed to this project as developers:
 
-* Caleb Cheshire [calebjc3.github.io](https://calebjc3.github.io/)
-* Austin Chong [austinschong.github.io](https://austinschong.github.io/)
-* Daniel Trupp [danieltrupp.github.io](https://danieltrupp.github.io/)
-* Liam Tsamous [ltsamous.github.io](https://ltsamous.github.io/)
+* Caleb Cheshire [(calebjc3.github.io)](https://calebjc3.github.io/)
+* Austin Chong [(austinschong.github.io)](https://austinschong.github.io/)
+* Daniel Trupp [(danieltrupp.github.io)](https://danieltrupp.github.io/)
+* Liam Tsamous [(ltsamous.github.io)](https://ltsamous.github.io/)
 
 ## User Guide
 

@@ -35,6 +35,14 @@ The COVID Kōkua homepage looks like this:
 
 <img src="images/landing.png">
 
+After arriving at the homepage, users are able to navigate via the menu bar at the top of the page. These will link to additional pages for student services, frequently asked questions (FAQs), etc. 
+
+For example, the "Additional Services" page looks like this:
+
+<img src="images/additional.png">
+
+Users can view information about each service or website in each specific card, and click links which will take them to that website.
+
 ## Development History
 
 The development process for COVID Kōkua conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:

@@ -31,11 +31,13 @@ The following team members contributed to this project as developers:
 
 This section provides a walkthrough of the COVID Kōkua user interface and its capabilities.
 
-The COVID Kōkua homepage looks like this:
+When users navigate to the COVID Kōkua, website, they will initially begin on the landing page, which looks like this:
 
 <img src="images/landing.png">
 
-After arriving at the homepage, users are able to navigate via the menu bar at the top of the page. These will link to additional pages for student services, frequently asked questions (FAQs), etc. 
+Users can go to the site's homepage by scrolling down past the site banner and description and clicking "Let's go to the home page!"
+
+From any page, users are able to navigate via the menu bar at the top of the page. These will link to additional pages for student services, frequently asked questions (FAQs), etc. 
 
 For example, the "Additional Services" page looks like this:
 

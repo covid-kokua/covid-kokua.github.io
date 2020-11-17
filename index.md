@@ -19,7 +19,9 @@ A wide array of frameworks and libraries were used in development of COVID Kōku
 
 The following team members contributed to this project as developers:
 * Caleb Cheshire
+  Portfolio: https://calebjc3.github.io/
 * Austin Chong
+  Portfolio: https://austinschong.github.io/
 * Daniel Trupp
 * Liam Tsamous
 

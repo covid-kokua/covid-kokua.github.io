@@ -33,7 +33,7 @@ This section provides a walkthrough of the COVID Kōkua user interface and its c
 
 The COVID Kōkua homepage looks like this:
 
-<img src="../images/landing.png">
+<img src="images/landing.png">
 
 ## Development History
 

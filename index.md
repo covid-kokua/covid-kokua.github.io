@@ -56,6 +56,11 @@ simple and displayed below.
 <img src="images/AddFinancial.png">
 <img src="images/EditFinancial.png">
 
+
+### The Social Services Page
+
+This page was designed as a way to connect users to multiple resources dedicated to helping families of Hawai'i. These resources have specific purposes to certain family situations and provides help for issues that pertain to child services, abuse help lines, and other great tools for people who may need the support.
+
 ## Development History
 
 The development process for COVID Kōkua conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:

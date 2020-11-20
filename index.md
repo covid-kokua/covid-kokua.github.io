@@ -42,6 +42,18 @@ For example, the "Additional Services" page looks like this:
 
 Users can view information about each service or website in each specific card, and click links which will take them to that website.
 
+### The Financial Resource Page
+
+This page is organized into cards where each card represents a resource, being either a website or a help line. It looks like this:
+
+<img src="images/Financial.png">
+
+Anyone can contribute to the things stored on the page by using the add or edit features. The user interface for both is relatively
+simple and displayed below.
+
+<img src="images/AddFinancial.png">
+<img src="images/EditFinancial.png">
+
 ## Development History
 
 The development process for COVID Kōkua conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:

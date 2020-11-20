@@ -76,7 +76,7 @@ The goal of Milestone 1 was to complete mockups of each page of the application,
 
 ### Milestone 2: Data model development
 
-The goal of Milestone 2...
+The goal of Milestone 2 is to improve aesthetics and functionality of the draft mockups for the application's pages. Then the team will work on adding potential additional features that could improve capability and user-friendliness. Click [here](https://github.com/covid-kokua/covid-kokua/projects/2) for the Milestone 2 project.
 
 ## Milestone 3: Final touches
 

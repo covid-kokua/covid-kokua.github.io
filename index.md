@@ -6,7 +6,7 @@
 * [Development History](#development-history)
 
 ## Overview
-[COVID Kōkua](http://165.227.22.82/#/) is a prototype web application that provides pages to view information regarding COVID-19 resources, including financial, social, and student resources as well as Frequently Asked Questions (FAQs) and links to additional information from official/governmental sources.
+[COVID Kōkua](http://178.128.186.129/#/) is a prototype web application that provides pages to view information regarding COVID-19 resources, including financial, social, and student resources as well as Frequently Asked Questions (FAQs) and links to additional information from official/governmental sources.
 
 A wide array of frameworks and libraries were used in development of COVID Kōkua, including:
 

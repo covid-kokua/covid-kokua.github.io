@@ -72,7 +72,7 @@ The following sections document the development history of BowFolios.
 
 ### Milestone 1: Mockup development
 
-The goal of Milestone 1 was...
+The goal of Milestone 1 was to complete mockups of each page of the application, with the general formatting and structure in place. Minor fixes and aesthetics can be improved at later milestones. To view the Milestone 1 project, click [here](https://github.com/covid-kokua/covid-kokua/projects/1).
 
 ### Milestone 2: Data model development
 

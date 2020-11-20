@@ -38,9 +38,11 @@ From any page, users are able to navigate via the menu bar at the top of the pag
 
 For example, the "Additional Services" page looks like this:
 
+### The Additional Services Page
+
 <img src="images/additional.png">
 
-Users can view information about each service or website in each specific card, and click links which will take them to that website.
+Users can view information about each service or website in each specific card, and click links which will take them to that website. To visit this page, click [here](http://165.227.22.82/#/additional).
 
 ### The Financial Resource Page
 

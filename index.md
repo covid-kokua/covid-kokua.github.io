@@ -6,9 +6,9 @@
 * [Development History](#development-history)
 
 ## Overview
-[COVID Kōkua](http://178.128.186.129/#/) is a prototype web application that provides pages to view information regarding COVID-19 resources, including financial, social, and student resources as well as Frequently Asked Questions (FAQs) and links to additional information from official/governmental sources.
+[Kōkua Hawai'i](http://178.128.186.129/#/) is a prototype web application that provides pages to view information regarding COVID-19 resources, including financial, social, and student resources as well as Frequently Asked Questions (FAQs) and links to additional information from official/governmental sources.
 
-A wide array of frameworks and libraries were used in development of COVID Kōkua, including:
+A wide array of frameworks and libraries were used in development of Kōkua Hawai'i, including:
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
@@ -26,9 +26,9 @@ The following team members contributed to this project as developers:
 
 ## User Guide
 
-This section provides a walkthrough of the COVID Kōkua user interface and its capabilities.
+This section provides a walkthrough of the Kōkua Hawai'i user interface and its capabilities.
 
-When users navigate to the COVID Kōkua, website, they will initially begin on the landing page, which looks like this:
+When users navigate to the Kōkua Hawai'i, website, they will initially begin on the landing page, which looks like this:
 
 <img src="images/landing.png">
 
@@ -63,7 +63,7 @@ This page was designed as a way to connect users to multiple resources dedicated
 
 ## Development History
 
-The development process for COVID Kōkua conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
+The development process for Kōkua Hawai'i conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
 
 * Development consists of a sequence of Milestones.
 * Each Milestone is specified as a set of tasks.

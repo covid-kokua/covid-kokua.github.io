@@ -1,12 +1,15 @@
 ## Table of contents
-
+* [Deployment](#deployment)
 * [Overview](#overview)
-* [Developers](#developers)
 * [User Guide](#user-guide)
+* [Developers](#developers)
 * [Development History](#development-history)
 
+## Deployment
+Kōkua Hawaiʻi is deployed as a secure website using hypertext transfer protocol (secure), aka HTTPS. Click [HERE](https://kokua-hawaii.xyz) to visit the website!
+
 ## Overview
-[Kōkua Hawai'i](http://178.128.186.129/#/) is a prototype web application that provides pages to view information regarding COVID-19 resources, including financial, social, and student resources as well as Frequently Asked Questions (FAQs) and links to additional information from official/governmental sources.
+Kōkua Hawaiʻi is a prototype web application that provides pages to view information regarding COVID-19 resources, including financial, social, and student resources as well as Frequently Asked Questions (FAQs) and links to additional information from official/governmental sources.
 
 A wide array of frameworks and libraries were used in development of Kōkua Hawai'i, including:
 
@@ -15,24 +18,25 @@ A wide array of frameworks and libraries were used in development of Kōkua Hawa
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
-## Developers
-
-The following team members contributed to this project as developers:
-
-* Caleb Cheshire [(calebjc3.github.io)](https://calebjc3.github.io/)
-* Austin Chong [(austinschong.github.io)](https://austinschong.github.io/)
-* Daniel Trupp [(danieltrupp.github.io)](https://danieltrupp.github.io/)
-* Liam Tsamous [(ltsamous.github.io)](https://ltsamous.github.io/)
-
 ## User Guide
 
-This section provides a walkthrough of the Kōkua Hawai'i user interface and its capabilities.
+This section provides a walkthrough of the Kōkua Hawaiʻi user interface and its capabilities.
 
-When users navigate to the Kōkua Hawai'i, website, they will initially begin on the landing page, which looks like this:
+When users navigate to the Kōkua Hawaiʻi, website, they will initially arrive on the homepage, which looks like this:
 
-<img src="images/landing.png">
+<img src="images/homepage-1.png">
 
-Users can go to the site's homepage by scrolling down past the site banner and description and clicking "Let's go to the home page!"
+Scrolling down, users can see and interact with the embedded COVID case data, which allows them to view pertinent information regarding cases, deaths, etc. in each state.
+
+<img src="images/homepage-2.png>
+          
+Following that, the next section outlines the mission of our team and website, and provides an example graph of the unemployment situation that we are facing locally.
+
+<img src="images/homepage-3.png>
+  
+The homepage concludes with some basic information on navigating the site, which is fairly simple
+
+<img src="images/homepage-4.png>
 
 From any page, users are able to navigate via the menu bar at the top of the page. These will link to additional pages for student services, frequently asked questions (FAQs), etc. 
 
@@ -48,18 +52,29 @@ Users can view information about each service or website in each specific card, 
 
 This page is organized into cards where each card represents a resource, being either a website or a help line. It looks like this:
 
-<img src="images/Financial.png">
+<img src="images/fin-services.png">
 
 Anyone can contribute to the things stored on the page by using the add or edit features. The user interface for both is relatively
 simple and displayed below.
 
-<img src="images/AddFinancial.png">
-<img src="images/EditFinancial.png">
+<img src="images/add-fin.png">
+<img src="images/edit-fin.png">
 
 
 ### The Social Services Page
 
-This page was designed as a way to connect users to multiple resources dedicated to helping families of Hawai'i. These resources have specific purposes to certain family situations and provides help for issues that pertain to child services, abuse help lines, and other great tools for people who may need the support.
+This page was designed as a way to connect users to multiple resources dedicated to helping families of Hawai'i. These resources have specific purposes to certain family situations and provides help for issues that pertain to child services, abuse help lines, and other great tools for people who may need the support. The goal of this page is to present all of the info in a compact fashion so that users can access it quickly without having to sift through lists.
+
+<img src="images/social.png">
+
+## Developers
+
+The following team members contributed to this project as developers:
+
+* Caleb Cheshire [(calebjc3.github.io)](https://calebjc3.github.io/)
+* Austin Chong [(austinschong.github.io)](https://austinschong.github.io/)
+* Daniel Trupp [(danieltrupp.github.io)](https://danieltrupp.github.io/)
+* Liam Tsamous [(ltsamous.github.io)](https://ltsamous.github.io/)
 
 ## Development History
 

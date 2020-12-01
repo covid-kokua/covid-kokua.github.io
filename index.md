@@ -6,7 +6,7 @@
 * [Development History](#development-history)
 
 ## Deployment
-Kōkua Hawaiʻi is deployed as a secure website using hypertext transfer protocol (secure), aka HTTPS. Click [HERE](https://kokua-hawaii.xyz) to visit the website!
+Kōkua Hawaiʻi is securely deployed using HTTPS. Click [HERE](https://kokua-hawaii.xyz) to visit the website!
 
 ## Overview
 Kōkua Hawaiʻi is a prototype web application that provides pages to view information regarding COVID-19 resources, including financial, social, and student resources as well as Frequently Asked Questions (FAQs) and links to additional information from official/governmental sources.
@@ -28,15 +28,15 @@ When users navigate to the Kōkua Hawaiʻi, website, they will initially arrive 
 
 Scrolling down, users can see and interact with the embedded COVID case data, which allows them to view pertinent information regarding cases, deaths, etc. in each state.
 
-<img src="images/homepage-2.png>
+<img src="images/homepage-2.png">
           
 Following that, the next section outlines the mission of our team and website, and provides an example graph of the unemployment situation that we are facing locally.
 
-<img src="images/homepage-3.png>
+<img src="images/homepage-3.png">
   
 The homepage concludes with some basic information on navigating the site, which is fairly simple
 
-<img src="images/homepage-4.png>
+<img src="images/homepage-4.png">
 
 From any page, users are able to navigate via the menu bar at the top of the page. These will link to additional pages for student services, frequently asked questions (FAQs), etc. 
 

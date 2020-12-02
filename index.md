@@ -3,9 +3,9 @@
 * [Deployment](#deployment)
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Developers](#developers)
 * [Development History](#development-history)
-* [Developer Guide](#developer-guide)
 
 ## Deployment
 Kōkua Hawaiʻi is securely deployed using HTTPS. Click [HERE](https://kokua-hawaii.xyz) to visit the website!

@@ -116,4 +116,4 @@ The goal of Milestone 2 is to improve aesthetics and functionality of the draft 
 
 ## Milestone 3: Final touches
 
-The goal of Milestone 3...
+The goal of Milestone 3 is to further improve the aesthetics and capabilities of the application and attempt to incorporate more features for the website. The team will continue to make further improvements where they see fit. Click [here](https://github.com/covid-kokua/covid-kokua/projects/3) for the Milestone 3 project.

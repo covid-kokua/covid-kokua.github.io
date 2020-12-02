@@ -1,3 +1,4 @@
+![ci-badge](https://github.com/covid-kokua/covid-kokua/workflows/Kokua-Hawai'i/badge.svg)
 ## Table of contents
 * [Deployment](#deployment)
 * [Overview](#overview)

@@ -5,6 +5,7 @@
 * [User Guide](#user-guide)
 * [Developers](#developers)
 * [Development History](#development-history)
+* [Developer Guide](#developer-guide)
 
 ## Deployment
 Kōkua Hawaiʻi is securely deployed using HTTPS. Click [HERE](https://kokua-hawaii.xyz) to visit the website!
@@ -67,6 +68,20 @@ simple and displayed below.
 This page was designed as a way to connect users to multiple resources dedicated to helping families of Hawai'i. These resources have specific purposes to certain family situations and provides help for issues that pertain to child services, abuse help lines, and other great tools for people who may need the support. The goal of this page is to present all of the info in a compact fashion so that users can access it quickly without having to sift through lists.
 
 <img src="images/social.png">
+
+## Developer Guide
+
+### Download
+
+To develop the system further, you can fork the github repo from [https://github.com/covid-kokua/covid-kokua](https://github.com/covid-kokua/covid-kokua). Once downloaded, it can be locally opened in your development environment of choice.
+
+### Installation and Running
+
+Once downloaded, use a command prompt to enter the app directory of the project and run `meteor npm install`. This will install all the necessary packages for the program. After the install finishes, you can run `meteor npm run start` to run the website. It will create a page at [http://localhost:3000/]( http://localhost:3000/). You can safely ignore the warning about installing bcrypt that appears in the terminal.
+
+### Modifying the system
+
+Once Downloaded and Installed, the program can be modified by altering the files in the app directory. The imports subdirectory contains a user interface subdirectory, where the pages and components of the website are housed. Editing the `settings.json` file allows for the creation of default data. In the case of new publications and collections, the `Mongo.js` and `Publications.js` files in the server directory need to be changed. Further inquiries about the program can be made to the developers.
 
 ## Developers
 

@@ -3,7 +3,7 @@
 * [Deployment](#deployment)
 * [Overview](#overview)
 * [User Guide](#user-guide)
-* [Community Feedback] (#feedback)
+* [Community Feedback] (#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Developers](#developers)
 * [Development History](#development-history)
@@ -86,16 +86,16 @@ When there are questions that are asked on a consistent basis, we use this page 
 
 Listed below is feedback given to us by the community on how to further improve our application:
 
-1) The Home Page image is too large
-2) The question mark image is too large
-3) There is no space at the bottom of the home page/needs a footer?
-4) The navigation question is higher priority than other information on the page, and should be higher up
-5) The 'Welcome to #Kokua-Hawai'i' text should be bigger
-6) The COVID table needs and explanation
-7) Social service page is a lot of text, could use more spacing
-8) Financial service page is broken
-9) NavBar could be a slightly different color, to be more interesting
-10) The header for some pages is too close to the navbar
+1. The Home Page image is too large
+2. The question mark image is too large
+3 There is no space at the bottom of the home page/needs a footer?
+4. The navigation question is higher priority than other information on the page, and should be higher up
+5. The 'Welcome to #Kokua-Hawai'i' text should be bigger
+6. The COVID table needs and explanation
+7. Social service page is a lot of text, could use more spacing
+8. Financial service page is broken
+9. NavBar could be a slightly different color, to be more interesting
+10. The header for some pages is too close to the navbar
 
 ## Developer Guide
 

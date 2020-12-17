@@ -11,6 +11,9 @@
 ## Deployment
 Kōkua Hawaiʻi is deployed through Digital Ocean. Click [HERE](http://104.236.11.85) to visit the website!
 
+### Testing Discrepancy
+All tests created for the web application pass locally but fail in GitHub. When downloading the application and running "meteor npm run start", it will run smoothly on http://localhost:3000
+
 ## Overview
 Kōkua Hawaiʻi is a prototype web application that provides pages to view information regarding COVID-19 resources, including financial, social, and student resources as well as Frequently Asked Questions (FAQs) and links to additional information from official/governmental sources.
 

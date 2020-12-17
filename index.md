@@ -9,7 +9,7 @@
 * [Development History](#development-history)
 
 ## Deployment
-Kōkua Hawaiʻi is securely deployed using HTTPS. Click [HERE](https://kokua-hawaii.xyz) to visit the website!
+Kōkua Hawaiʻi is deployed through Digital Ocean. Click [HERE](http://104.236.11.85) to visit the website!
 
 ## Overview
 Kōkua Hawaiʻi is a prototype web application that provides pages to view information regarding COVID-19 resources, including financial, social, and student resources as well as Frequently Asked Questions (FAQs) and links to additional information from official/governmental sources.

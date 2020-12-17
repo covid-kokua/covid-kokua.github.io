@@ -3,6 +3,7 @@
 * [Deployment](#deployment)
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Community Feedback] (#feedback)
 * [Developer Guide](#developer-guide)
 * [Developers](#developers)
 * [Development History](#development-history)
@@ -31,12 +32,12 @@ When users navigate to the Kōkua Hawaiʻi, website, they will initially arrive 
 Scrolling down, users can see and interact with the embedded COVID case data, which allows them to view pertinent information regarding cases, deaths, etc. in each state.
 
 <img src="images/homepage-2.png">
-          
-Following that, the next section outlines the mission of our team and website, and provides an example graph of the unemployment situation that we are facing locally.
+
+The homepage concludes with some basic information on navigating the site, which is fairly simple
 
 <img src="images/homepage-3.png">
-  
-The homepage concludes with some basic information on navigating the site, which is fairly simple
+          
+Following that, the next section outlines the mission of our team and website, and provides an example graph of the unemployment situation that we are facing locally.
 
 <img src="images/homepage-4.png">
 
@@ -68,6 +69,33 @@ simple and displayed below.
 This page was designed as a way to connect users to multiple resources dedicated to helping families of Hawai'i. These resources have specific purposes to certain family situations and provides help for issues that pertain to child services, abuse help lines, and other great tools for people who may need the support. The goal of this page is to present all of the info in a compact fashion so that users can access it quickly without having to sift through lists.
 
 <img src="images/social.png">
+
+### The Student Services Page
+
+This page gives local students of all University of Hawai'i colleges easy access to the many resources that they provide in order to assist students with the struggles of online learning and COVID-19.
+
+<img src="images/student.png">
+
+### The FAQ Page
+
+When there are questions that are asked on a consistent basis, we use this page to address those common issues and give resources where applicable.
+
+<img src="images/faq.png">
+
+## Community Feedback
+
+Listed below is feedback given to us by the community on how to further improve our application:
+
+1) The Home Page image is too large
+2) The question mark image is too large
+3) There is no space at the bottom of the home page/needs a footer?
+4) The navigation question is higher priority than other information on the page, and should be higher up
+5) The 'Welcome to #Kokua-Hawai'i' text should be bigger
+6) The COVID table needs and explanation
+7) Social service page is a lot of text, could use more spacing
+8) Financial service page is broken
+9) NavBar could be a slightly different color, to be more interesting
+10) The header for some pages is too close to the navbar
 
 ## Developer Guide
 

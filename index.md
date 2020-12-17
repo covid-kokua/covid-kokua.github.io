@@ -3,7 +3,7 @@
 * [Deployment](#deployment)
 * [Overview](#overview)
 * [User Guide](#user-guide)
-* [Community Feedback] (#feedback)
+* [Feedback](#feedback)
 * [Developer Guide](#developer-guide)
 * [Developers](#developers)
 * [Development History](#development-history)
